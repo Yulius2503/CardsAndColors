@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\defa1c93d82d6ae071dea48c295d8935\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd00bca620fcc29557337d58164996f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e4f36fe48061d1a4fc6186647254a5fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d56f9b5740d2eef14e8f93558ea8713a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd60bdfbadc01c201d127a45fab89cbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\559b9c09063a7b6393b405e1a24528bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7efb78e9cf65619e9fc18da8117768db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2627c6724b87dc45e1933338d462b97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\384ef28dfc61e60b8ce517d0abaa57e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bcf213d34691d30d94f2376c91075a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c781509d2c7d4a5d7fbe03140799b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c9b0c151eb9a775affc22eb15122f79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46365d28ef86a55a206082255bc0408e\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:20:5-33:19
+	android:supportsRtl
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\defa1c93d82d6ae071dea48c295d8935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\defa1c93d82d6ae071dea48c295d8935\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd00bca620fcc29557337d58164996f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fbd00bca620fcc29557337d58164996f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e4f36fe48061d1a4fc6186647254a5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\e4f36fe48061d1a4fc6186647254a5fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d56f9b5740d2eef14e8f93558ea8713a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d56f9b5740d2eef14e8f93558ea8713a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd60bdfbadc01c201d127a45fab89cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\dd60bdfbadc01c201d127a45fab89cbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\559b9c09063a7b6393b405e1a24528bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\559b9c09063a7b6393b405e1a24528bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7efb78e9cf65619e9fc18da8117768db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7efb78e9cf65619e9fc18da8117768db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2627c6724b87dc45e1933338d462b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b2627c6724b87dc45e1933338d462b97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\384ef28dfc61e60b8ce517d0abaa57e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\384ef28dfc61e60b8ce517d0abaa57e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bcf213d34691d30d94f2376c91075a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c5bcf213d34691d30d94f2376c91075a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c781509d2c7d4a5d7fbe03140799b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c781509d2c7d4a5d7fbe03140799b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c9b0c151eb9a775affc22eb15122f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9c9b0c151eb9a775affc22eb15122f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46365d28ef86a55a206082255bc0408e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DG vior\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\46365d28ef86a55a206082255bc0408e\AndroidManifest.xml:20:5-44
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Data kuliah\Smester 6\PAM\Praktikum\week 9\Frid\MaterialMe-Starter\app\src\main\AndroidManifest.xml

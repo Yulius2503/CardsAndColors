@@ -1,0 +1,4 @@
+#Fri Mar 22 20:49:27 ICT 2019
+base.0=D\:\\Data kuliah\\Smester 6\\PAM\\Praktikum\\week 9\\Frid\\MaterialMe-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
